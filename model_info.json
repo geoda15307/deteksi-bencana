@@ -1,0 +1,10 @@
+{
+  "fine_tune_layers": 30,
+  "dataset_name": "Comprehensive Disaster Dataset (CDD)",
+  "train_split": 70,
+  "val_split": 20,
+  "test_split": 10,
+  "test_accuracy": 0.94,
+  "macro_f1": 0.93,
+  "mean_auc": 0.97
+}
